@@ -48,6 +48,7 @@ export default function ProductCard({ item, deleteFunction }) {
             group-hover:opacity-100
             hover:bg-red-50
             hover:text-red-600
+            hover:border-red-700
           "
         >
           ✕
